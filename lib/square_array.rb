@@ -6,4 +6,4 @@ def square_array(array)
   square_numbers
 end
 
-puts square_array[1, 2, 3]
+puts square_array([1, 2, 3])
