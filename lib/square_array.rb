@@ -4,5 +4,5 @@ def square_array(array)
   array.length.times { |index|
     square_numbers.push((array[index])**2)
   }
-  square_numbers  
+  square_numbers
 end
